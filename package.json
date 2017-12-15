@@ -7,6 +7,7 @@
     "configure-openapi": "cd configure-openapi && babel-node index.js",
     "hello-world": "cd hello-world && babel-node index.js",
     "koa-middleware": "cd koa-middleware && babel-node index.js",
+    "custom-decorator": "cd custom-decorator && babel-node index.js",
     "internal-decorator-middleware": "cd internal-decorator-middleware && babel-node index.js"
   },
   "keywords": [],
