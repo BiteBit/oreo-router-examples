@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "hello-world": "cd hello-world && babel-node index.js"
+    "hello-world": "cd hello-world && babel-node index.js",
+    "configure-openapi": "cd configure-openapi && babel-node index.js"
   },
   "keywords": [],
   "author": "BiteBit",
